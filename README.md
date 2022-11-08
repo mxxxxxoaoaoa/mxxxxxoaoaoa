@@ -8,7 +8,7 @@
 
 - 💬 **Open to any suggestions and projects.**
 
-### 👁‍🗨 langs and tools
+## 👁‍🗨 langs and tools
 - 💎 `.py`
   - 📦 `mysql` `postgres` 
   - 📍 `nextcord` `aiogram` 
@@ -22,7 +22,7 @@
   - 📡 `async httprequests`
 - ⚙️ `sql` `mongodb` `redis`
 
-### 📞 connect with me
+## 📞 connect with me
 <a href = "https://t.me/n0tenough"><img src="https://github.com/mxxxxxoaoaoa/mxxxxxoaoaoa/blob/main/tg.svg?raw=true" width="32"></a>
 <!--
 **mxxxxxoaoaoa/mxxxxxoaoaoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
