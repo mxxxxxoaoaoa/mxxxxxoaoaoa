@@ -23,7 +23,7 @@
 - ⚙️ `sql` `mongodb` `redis`
 
 ## 📞 connect with me
-<a href = "https://t.me/n0tenough"><img src="https://github.com/mxxxxxoaoaoa/mxxxxxoaoaoa/blob/main/tg.svg?raw=true" width="32"></a>
+<a href = "https://t.me/n0tenough"><img src="https://github.com/mxxxxxoaoaoa/mxxxxxoaoaoa/blob/main/tg.svg?raw=true" width="32"></a><a href = "https://discordapp.com/users/890175841613516811"><img src="https://github.com/mxxxxxoaoaoa/mxxxxxoaoaoa/blob/main/ds.svg?raw=true" width="32"></a>
 <!--
 **mxxxxxoaoaoa/mxxxxxoaoaoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
