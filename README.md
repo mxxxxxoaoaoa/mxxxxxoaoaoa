@@ -22,6 +22,13 @@
   - 📡 `async httprequests`
 - ⚙️ `sql` `mongodb` `redis`
 
+## 📱 working projects
+- 👑 <a href = https://telegram.me/sosalkarobot?start>sosalkarobot</a> - **public telegram bot.** tiktok links converter into video in full hd quality and without watermarks. also: chats leveling, pinterest parser.
+- 💼 telegram autoposting - **private telegram bot.** autoposting from vk.com posts and posting to channel. **(features: bypassing limits for telegram and vk.com)**
+- 💼 watermark generator - **private telegram bot.** watermark generator and overlaying on videos
+
+> for more information about private projects - dm me.
+
 ## 📞 connect with me
 <a href = "https://t.me/n0tenough"><img src="https://github.com/mxxxxxoaoaoa/mxxxxxoaoaoa/blob/main/tg.svg?raw=true" width="32"></a><a href = "https://discordapp.com/users/890175841613516811"><img src="https://github.com/mxxxxxoaoaoa/mxxxxxoaoaoa/blob/main/ds.svg?raw=true" width="32"></a>
 <!--
