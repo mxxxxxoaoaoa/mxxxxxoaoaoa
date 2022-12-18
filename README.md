@@ -10,10 +10,10 @@
 
 ## 👁‍🗨 langs and tools
 - 💎 `.py`
-  - 📦 `mysql` `postgres` 
+  - 📦 `mysql` `postgres` `redis` `mongodb` `sqlite3`
   - 📍 `nextcord` `aiogram` 
   - 🗳 `selenium` `pillow` 
-  - 📡 `aiohttp` `requests` `bs4`
+  - 📡 `aiohttp` `requests` `bs4` 
 - 📀 `.ts`
   - 📍 `telegraf` `discord.js`
   - 📦 `sqlite`
