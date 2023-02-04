@@ -1,4 +1,4 @@
-# <p align="center"> 🐣 Hello, I'm Andriy </p>
+# <p align="center"> 🐣 Hello, I'm m5x </p>
 
 ## 👀 about me 
 - 📌 I'm a student at *Kharkiv National University of Radio Electronics (NURE)*. 
