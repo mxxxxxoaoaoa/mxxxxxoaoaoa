@@ -1,12 +1,5 @@
 # <p align="center"> 🐣 Hello, I'm m5x </p>
 
-## 👀 about me 
-- 📌 I'm a student at *Kharkiv National University of Radio Electronics (NURE)*. 
-
-- 💻 I've been writing code for **three years now**. Mainly in **python**, but I also can write code in: **c#, ts.**
-
-- 💬 **Open to any suggestions and projects.**
-
 ## 👁‍🗨 langs and tools
 - 💎 `.py`
   - 📦 `mysql` `postgres` `redis` `mongodb` `sqlite3`
