@@ -30,7 +30,7 @@
 > for more information about private projects - dm me.
 
 ## 📮 connect with me
-<a href = "https://t.me/m5x_slave"><img src="https://github.com/mxxxxxoaoaoa/mxxxxxoaoaoa/blob/main/tg.svg?raw=true" width="32"></a>
+<a href = "https://t.me/fucking_dismoral"><img src="https://github.com/mxxxxxoaoaoa/mxxxxxoaoaoa/blob/main/tg.svg?raw=true" width="32"></a>
 
 <!--
 **mxxxxxoaoaoa/mxxxxxoaoaoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
