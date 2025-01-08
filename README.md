@@ -15,7 +15,7 @@
 - ⚙️ `sql` `mongodb` `redis`
 
 ## 🌐 working projects
-- 👑 <a href = https://telegram.me/sosalkarobot?start>sosalkarobot</a> - **public telegram bot.** tiktok links converter into video in full hd quality and without watermarks. also: chats leveling, pinterest parser.
+- 👑 <a href = https://telegram.me/sosalkarobot?start>sos</a> - **public telegram bot.** tiktok links converter into video in full hd quality and without watermarks. also: chats leveling, pinterest parser.
 - 👑 <a href = https://telegram.me/music5x_robot?start>telegram music player</a> - **public telegram bot.** music player with more features. unique playlist system, search and download from soundcloud, spotify and youtube, profile system, automatic lagnguage switcher, daily and nightly themes.
 - 💼 <a href = https://telegram.me/nurehelper_bot?start> NURE Helper</a> - **public telegram bot.** Kharkiv National University of Radioelectronics timetable telegram bot.
 - 💼 telegram autoposting - **private telegram bot.** autoposting from vk.com posts and posting to channel. **(features: bypassing limits for telegram and vk.com)**
